@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Sriram</h1>
-<h3 align="center">Aspiring Product Manager | Ex-Startup Co-Founder | Tech + Business</h3>
+<h3 align="center">Aspiring Product Manager | Tech + Business</h3>
 
 <img align="right" alt="Product Thinking" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
@@ -83,20 +83,4 @@
 - 📌 Growth Experiments & Metrics  
 - 📌 Data-Driven Decision Making  
 
-<p>
-  <img align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=prudhvisriram29&show_icons=true&locale=en&layout=compact" 
-    alt="prudhvisriram29" />
-</p>
 
-<p>&nbsp;
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=prudhvisriram29&show_icons=true&locale=en" 
-    alt="prudhvisriram29" />
-</p>
-
-<p>
-  <img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prudhvisriram29&" 
-    alt="prudhvisriram29" />
-</p>
