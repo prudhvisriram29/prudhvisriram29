@@ -86,7 +86,7 @@ I don’t just study product management — I **practice it by building, analyzi
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prudhvi-sriram-669a38246/">
+  <a href="https://www.linkedin.com/in/prudhvi-sriram">
     <img src="https://img.shields.io/badge/LinkedIn-Prudhvi-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:prudhvisriram29@gmail.com">
